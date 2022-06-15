@@ -6,7 +6,7 @@
 # @Project : gitproject
 
 def func():
-    print('ｇｉｔ　测试')
+    print('git　测试')
 
 
 if __name__ == '__main__':
